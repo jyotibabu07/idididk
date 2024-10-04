@@ -1513,5 +1513,92 @@
                 "title": "  Hajur Aama Ka Katha part 6  "
             }
         ]
+    },
+    {
+        "id": 27,
+        "title": "Meera",
+        "author": "Deepak Sinjali",
+        "description": "Deepak Sinjali's first Nepali novel 'Meera' (Mira) has been released in Pokhara. Narrator Bhuvan Hari Sigdel unveiled the novel at a program organized by Pokhareli Youth Cultural Family. Sigdel said that the path of philosophy has been strengthened in Mira.<br>Listen Nepali Novel Meera from crystal clear voice of Achyut Ghimire from Radio Program Shruti Sambeg from Unn Ujyaalo 90 network.Sigdel said that even though the love between the brothers and sisters seemed to be complicated, there was no bond between them. He also argued that the debate should not be dragged out.<br>Novelist Deepak Sinjali had said that he had written to present social justice system, love and life saving. The novelist Sinjali said that he was of the opinion that social structures such as bone marrow relations should be resolved by law or accepted.<br>Publisher Shikha Books' Pushparaj Poudel also extended best wishes at the program chaired by family chairman Deepak Samip. The program was conducted by Secretary Arjun Adhikari. ",
+        "genres": [
+            "Fiction",
+            "Romance",
+            "Novel"
+        ],
+        "cover": "https://archive.org/download/mira_20241003/mira.jpg",
+        "awards": [],
+        "isbn": "9937927706",
+        "published": "N/A",
+        "publisher": "Shikha Books",
+        "playlist": [
+            {
+                "url": "https://archive.org/download/me_ra/ME1.mp3",
+                "title": "  Meera part 1  "
+            },
+            {
+                "url": "https://archive.org/download/me_ra/ME2.mp3",
+                "title": "  Meera part 2  "
+            },
+            {
+                "url": "https://archive.org/download/me_ra/ME3.mp3",
+                "title": "  Meera part 3  "
+            },
+            {
+                "url": "https://archive.org/download/me_ra/ME4.mp3",
+                "title": "  Meera part 4  "
+            },
+            {
+                "url": "https://archive.org/download/me_ra/ME5.mp3",
+                "title": "  Meera part 5  "
+            },
+            {
+                "url": "https://archive.org/download/me_ra/ME6.mp3",
+                "title": "  Meera part 6  "
+            },
+            {
+                "url": "https://archive.org/download/me_ra/ME7.mp3",
+                "title": "  Meera part 7  "
+            },
+            {
+                "url": "https://archive.org/download/me_ra/ME8.mp3",
+                "title": "  Meera part 8  "
+            },
+            {
+                "url": "https://archive.org/download/me_ra/ME9.mp3",
+                "title": "  Meera part 9  "
+            },
+            {
+                "url": "https://archive.org/download/me_ra/ME10.mp3",
+                "title": "  Meera part 10  "
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Tamasuk",
+        "author": "Padam Vishwokarma",
+        "description": "Tamasuk, the story collection is written by Padam Vishokarma. Tamasuk was first published in baisakh 2076. The introductory part was written by Maya Thakuri, Nilam Niharika and Gyanu Adhikari. Writer Padam Vishokarma was native of Lamjung, Dhamilekuwa and presently resident of colorado. Writer was student of Tribhuvan University and he studied Major Nepali and Sociology and Anthropology. His Poem collection sabdasuman has been published before. Tamasuk contains many story among them mithai ma bhuleko jindagi are the presented here. Listen Nepali Story collection Tamasuk with Achyut Ghimire from radio program Shruti Sambeg.",
+        "genres": [
+            "Fiction",
+            "Short Stories"
+        ],
+        "cover": "https://archive.org/download/tamasuk_blurred/tamasuk_blurred.jpg",
+        "awards": [],
+        "isbn": "N/A",
+        "published": "N/A",
+        "publisher": "N/A",
+        "playlist": [
+            {
+                "url": "https://archive.org/download/ha12n/TAM1.mp3",
+                "title": "Tamasuk Part 1"
+            },
+            {
+                "url": "https://archive.org/download/ha12n/TAM2.mp3",
+                "title": "Tamasuk Part 2"
+            },
+            {
+                "url": "https://archive.org/download/ha12n/TAM3.mp3",
+                "title": "Tamasuk Part 3"
+            }
+        ]
     }
 ]
